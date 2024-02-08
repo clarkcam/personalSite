@@ -87,10 +87,16 @@ img#brass {
     float:right;
     margin:20px 8px 8px 20px; 
     box-shadow: 4px 4px 8px black;
-
 }
 img#zoo {
     float:left;
     margin:20px 20px 0 0;
     box-shadow: 4px 4px 8px black;
+}
+img#cameron {
+    height:400px;
+    float:right;
+    margin:10px 8px 8px 20px; 
+    box-shadow: 4px 4px 8px black;
+
 }
